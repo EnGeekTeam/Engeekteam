@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "399145753475",
+    "firebase_url": "https://engeek-15df4.firebaseio.com",
+    "project_id": "engeek-15df4",
+    "storage_bucket": "engeek-15df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399145753475:android:7da85d06b6a8c5b4",
+        "android_client_info": {
+          "package_name": "com.gik.admin.engeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399145753475-gmeh2d0p356rgodlkta90970i6tqdsis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5aE7XAnVMDkAsZBbxqHfl4i26pP5pc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399145753475-gmeh2d0p356rgodlkta90970i6tqdsis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
